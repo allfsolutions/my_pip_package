@@ -1,4 +1,4 @@
-def anotartx():
+def anotartx(driver,banco,sheetpagos,anotados,NoSuchElementException,By,WebDriverWait,EC,sheetrealizados,datetime,codigobanco,limite,time,Keys,re,nombreplat):
     items=driver.find_elements_by_xpath('//*[@id="root"]/div/main/div[1]/div[2]/div/div[3]/table/tbody/tr')
     count=len(items)
     porhacer=[]

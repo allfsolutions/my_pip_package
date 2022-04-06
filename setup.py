@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my_py_package',
+    name='my_pip_package',
     version=0.1,
 
     url='https://github.com/allfsolutions/my_py_package',
